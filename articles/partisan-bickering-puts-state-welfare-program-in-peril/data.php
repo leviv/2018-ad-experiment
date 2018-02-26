@@ -5,10 +5,10 @@ $author = 'Jim Phipps';
 $pubdate = 'Feb. 26, 2017';
 $featured_img = '../../dist/img/tideAd.png';
 
-if ($race.substr(0,1) == 'a') {
-    $race1 = 'a ' . $race;
+if ($race == 'African American') {
+    $race1 = 'n ' . $race;
 } else {
-    $race1 = $race;
+    $race1 = ' ' . $race;
 }
 
 $featured_img_caption = '';
