@@ -13,6 +13,7 @@
             </div>
         </header>
         <?php if (strlen($featured_img) > 1) { ?>
+        <h6 style="font-size: .6em; text-align: right"><u><small><strong>Advertiser Content</strong></small></u></h6>
             <a href = "#"><img src="<? echo $featured_img;?>" alt="Sponsered advertisement"></a>
         <?php } ?>
         <hr>
