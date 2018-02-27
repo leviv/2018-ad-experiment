@@ -1,7 +1,7 @@
 <?php
 $identifier = 'trust';
 $title = 'Partisan Bickering Puts State Welfare Program in Peril';
-$author = 'Jim Phipps';
+$author = 'Brian Smith';
 $pubdate = 'Feb. 26, 2017';
 $featured_img = '../../dist/img/tideAd.png';
 
